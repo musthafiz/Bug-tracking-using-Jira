@@ -10,8 +10,10 @@
 - Press on create an account. 
 - Another input field is valid.
 - Registration has not been completed and Notification has appeared as "Phone number must be valid number".     
-<br/>        
-## To Do
+<br/>    
+
+## To Do   
+
 ![image](https://user-images.githubusercontent.com/92669932/195063271-c3cc96b8-925d-4230-acb2-8a10a60bf3f0.png)    
 #### Description: The work was assigned to Musthafezur Rahaman for solving the issue.  
 <br/>   
